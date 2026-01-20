@@ -1,0 +1,3 @@
+Course: CS101
+  - S001 - Arbana Berisha (arbana@umt.com)
+  - S002 - Brian Doci (brian@umt.com)
